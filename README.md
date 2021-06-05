@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... ReactJS / Data Science
 - 🤔 I’m looking for help with ... ReactJS / Azure or AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email] (ravisaxena289@gmail.com)
+- 📫 How to reach me: ... [Email](ravisaxena289@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish
